@@ -13,7 +13,7 @@ const Home = () => {
                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                     <h3>
                     Bachelor of Technology in Computer Science (Undergraduate)
-                        <strong className="brand-name"> Chitara University</strong>
+                        <strong className="brand-name"> Chitkara University</strong>
                     </h3>
                     <h5 className="my-3">
                     A Fervent person and proficient in Python 
